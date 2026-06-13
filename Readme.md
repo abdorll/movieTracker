@@ -4,6 +4,35 @@ A polished Android app for discovering trending movies and TV shows, watching tr
 
 This was built as an internship portfolio project while learning Android development from scratch, coming from a Flutter background.
 
+**[⬇ Download APK](https://drive.google.com/file/d/1jTHheLJBiVd0jznfC4KptnU2lx4kndUt/view?usp=drive_link)**
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home (Dark)</b></td>
+    <td align="center"><b>Home (Light)</b></td>
+    <td align="center"><b>Search</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/image1.png" width="220"/></td>
+    <td><img src="screenshots/image2.png" width="220"/></td>
+    <td><img src="screenshots/image5.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Detail (Dark)</b></td>
+    <td align="center"><b>Detail (Light)</b></td>
+    <td align="center"><b>Watchlist</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/image3.png" width="220"/></td>
+    <td><img src="screenshots/image4.png" width="220"/></td>
+    <td><img src="screenshots/image6.png" width="220"/></td>
+  </tr>
+</table>
+
 ---
 
 ## What the app does
